@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D3A99-ACBC-46CF-9FA7-D60B56FAAEDF}|LoginProjeto\\LoginProjeto.csproj|c:\\users\\3mtec\\documents\\projetologin\\loginprojeto\\loginprojeto\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D3A99-ACBC-46CF-9FA7-D60B56FAAEDF}|LoginProjeto\\LoginProjeto.csproj|solutionrelative:loginprojeto\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D3A99-ACBC-46CF-9FA7-D60B56FAAEDF}|LoginProjeto\\LoginProjeto.csproj|c:\\users\\3mtec\\documents\\projetologin\\loginprojeto\\loginprojeto\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D3A99-ACBC-46CF-9FA7-D60B56FAAEDF}|LoginProjeto\\LoginProjeto.csproj|solutionrelative:loginprojeto\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D3A99-ACBC-46CF-9FA7-D60B56FAAEDF}|LoginProjeto\\LoginProjeto.csproj|c:\\users\\3mtec\\documents\\projetologin\\loginprojeto\\loginprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D36D3A99-ACBC-46CF-9FA7-D60B56FAAEDF}|LoginProjeto\\LoginProjeto.csproj|solutionrelative:loginprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\LoginProjeto\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "LoginProjeto\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\LoginProjeto\\Models\\Colaborador.cs",
+              "RelativeToolTip": "LoginProjeto\\Models\\Colaborador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T13:20:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\LoginProjeto\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LoginProjeto\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\LoginProjeto\\Models\\Cliente.cs",
+              "RelativeToolTip": "LoginProjeto\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA7wBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T12:17:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\LoginProjeto\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginProjeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\3mtec\\Documents\\ProjetoLogin\\LoginProjeto\\LoginProjeto\\appsettings.json",
+              "RelativeToolTip": "LoginProjeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T12:14:20.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
